@@ -101,5 +101,13 @@
     "transform": [
       "loose-envify"
     ]
+  },
+  "overrides": {
+    "lodash": ">=4.18.1",
+    "lodash-es": ">=4.18.1"
+  },
+  "resolutions": {
+    "lodash": ">=4.18.1",
+    "lodash-es": ">=4.18.1"
   }
 }
