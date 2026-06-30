@@ -1,6 +1,6 @@
 {
   "name": "react-redux",
-  "version": "5.1.2",
+  "version": "5.1.2-lineaje-01",
   "description": "Official React bindings for Redux",
   "keywords": [
     "react",
@@ -14,9 +14,18 @@
     "redux"
   ],
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "author": "Dan Abramov <dan.abramov@me.com> (https://github.com/gaearon)",
   "homepage": "https://github.com/reduxjs/react-redux",
-  "repository": "github:reduxjs/react-redux",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lineaje-labs-gos/reduxjs-react-redux"
+  },
   "bugs": "https://github.com/reduxjs/react-redux/issues",
   "main": "./lib/index.js",
   "unpkg": "dist/react-redux.js",
